@@ -98,7 +98,7 @@ async def main():
         all_result.extend(result)
     
     # 输出到 wwwroot/buttons.json
-    out_path = "../ProgramaroDeVerdaStelo/wwwroot/buttons.json"
+    out_path = "./ProgramaroDeVerdaStelo/wwwroot/buttons.json"
     with open(out_path,'w',encoding='utf-8') as fw:
         json.dump(all_result, fw, ensure_ascii=False, indent=2)
     print(f"✅ 已写入前端json: {out_path}")
