@@ -44,7 +44,7 @@ jobs:
     - name: InitializePy
       run: | 
         pip install aiohttp
-        python py/initialize.py
+        python ProgramaroDeVerdaStelo/wwwroot/py/initialize.py
 
     # 5. 发布Blazor WebAssembly项目
     - name: Publish Blazor WebAssembly
