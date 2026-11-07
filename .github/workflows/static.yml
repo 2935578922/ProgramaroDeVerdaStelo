@@ -1,0 +1,76 @@
+name: Deploy MathNotes to GitHub Pages
+
+on:
+  # 当推送到main分支时触发
+  push:
+    branches: [ main ]
+  # 允许手动触发
+  workflow_dispatch:
+  # 按时触发(每6h)
+  schedule:
+    - cron: '0 */6 * * *'
+
+# 设置GITHUB_TOKEN的权限
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    # 1. 检出代码
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # 2. 设置环境
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.0.x'  # 或你使用的版本
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.14'
+
+    # 3. 还原依赖
+    - name: Restore dependencies
+      run: dotnet restore
+
+    # 4. 运行初始化py
+    - name: InitializePy
+      run: python py/initialize.py
+
+    # 5. 发布Blazor WebAssembly项目
+    - name: Publish Blazor WebAssembly
+      run: dotnet publish MathNotes/MathNotes.csproj -c Release -o release --nologo
+      # 将 YourBlazorProject.csproj 替换为你的项目文件路径
+
+    # 6. 处理发布文件（添加.nojekyll和调整路径）
+    - name: Prepare deployment files
+      run: |
+        cd release/wwwroot
+        # 创建.nojekyll文件，防止GitHub Pages忽略以下划线开头的文件
+        touch .nojekyll
+        # 创建空的404页面，用于SPA路由支持
+        cp index.html 404.html
+        
+        # 如果是子路径部署，需要修改base href
+        # 例如：如果你的仓库名为 my-blazor-app，访问地址为 username.github.io/my-blazor-app
+        # 取消下面注释并替换为你的仓库名
+        sed -i 's/<base href="\/" \/>/<base href="\/IntractiveMathNotes\/" \/>/g' index.html
+        sed -i 's/<base href="\/" \/>/<base href="\/IntractiveMathNotes\/" \/>/g' 404.html
+
+    # 7. 部署到GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./release/wwwroot
+        publish_branch: pages  # 部署到的分支
+        force_orphan: true
+        commit_message: "Deploy MathNotes to Pages"
+        # 如果需要保留历史提交记录，移除 force_orphan: true

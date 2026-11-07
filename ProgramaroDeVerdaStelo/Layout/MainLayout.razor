@@ -1,0 +1,83 @@
+﻿@using ProgramaroDeVerdaStelo.Pages.MiniComponent
+@inherits LayoutComponentBase
+@inject NavigationManager NavManager
+
+<div class="top-bar">
+    <HomeIcon Style="position:absolute; top:0px; left:1.5vmin;" Style1=@StyleOfLogo></HomeIcon>
+    <div style="position:absolute; top:0px; left:7.5vmin;">    
+        <button 
+        class="btn1 @Animations[0]" 
+        style="width:8vmin; height:6vmin;"
+        @onclick='()=>NavManager.NavigateTo("/application")'>软件</button>
+
+        <button 
+        class="btn1 @Animations[1]" 
+        style="width:8vmin; height:6vmin;"
+        @onclick='()=>NavManager.NavigateTo("/code")'>源码</button>
+
+        <button 
+        class="btn1 @Animations[2]" 
+        style="width:8vmin; height:6vmin;"
+        @onclick='()=>NavManager.NavigateTo("/author")'>社员</button>
+
+        <button
+        class="btn1 @Animations[3]" 
+        style="width:8vmin; height:6vmin;"
+        @onclick='()=>NavManager.NavigateTo("/")'>本站</button>
+
+    </div>
+</div>
+
+<style>
+    .ani0 {
+        opacity:0;
+    }
+    .start-ani {
+        animation:start-animation 400ms ease forwards;
+    }
+    @@keyframes start-animation {
+        from {
+            opacity:0;
+            transform:translateX(5vw);
+        }
+        to {
+            opacity:1;
+            transform:translateX(0px);
+        }
+    }
+</style>
+
+@Body
+
+@code {
+    string[] Animations=new string[]{"ani0","ani0","ani0","ani0"};
+
+    string StyleOfLogo="position:absolute; top:-6vmin; left:1.5vmin;";
+
+    protected override async Task OnAfterRenderAsync(bool Rendered)
+    {
+        if(Rendered)
+        {
+            for(int i=0;i<4;i+=1)
+            {
+                await Task.Delay(100);
+                Animations[i]="start-ani";
+                StateHasChanged();
+            }
+            StyleOfLogo="animation:start-animation1 500ms ease forwards;";
+            StateHasChanged();
+            await Task.Delay(300);
+            for(int i=0;i<4;i+=1)
+            {
+                if(i==1)
+                {
+                    StyleOfLogo="";
+                    StateHasChanged();
+                }
+                await Task.Delay(100);
+                Animations[i]="";
+                StateHasChanged();
+            }
+        }
+    }
+}

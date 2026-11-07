@@ -1,0 +1,77 @@
+﻿@page "/application"
+@using ProgramaroDeVerdaStelo.Pages.MiniComponent
+@inject IJSRuntime JSRuntime
+@inject HttpClient Http
+@implements IAsyncDisposable
+<PageTitle>软件</PageTitle>
+
+<canvas id="appCanvas" style="position:fixed; top:0;left:0;width:100vw;height:100vh; margin:0;padding:0;border:none; z-index:-1;"></canvas>
+<div style="position:absolute; transform:translateX(-50%);
+     left:50vw; top:9vh; width:max-content; display:grid; align-items:center; grid-auto-flow:column;">
+    <input @bind-value="userInputText"
+                @bind-value:event="oninput"
+                @bind-value:after="SendSearchText"
+                placeholder="搜索作者，或者作品名"
+                class="input"
+                style="width:50vw; font-size:3vh; line-height:5vh; height:5vh;">
+    </input>
+    <button class="btn1" style="font-size:3vh; line-height:5vh; width:5vh; height:5vh; padding:0px;">
+        🔍
+    </button>
+</div>
+
+<style>
+    input::placeholder {
+        color: #3f987c;
+    }
+</style>
+
+@code {
+    private IJSObjectReference? canvasModule;
+    private string userInputText = "";
+    private object[]? btnData;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender) return;
+
+        canvasModule = await JSRuntime.InvokeAsync<IJSObjectReference>(
+            "import", "./canvas.js");
+
+        try
+        {
+            btnData = await Http.GetFromJsonAsync<object[]>("buttons.json");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("读取buttons.json失败：" + ex.Message);
+            // 读取失败，给一个空数组，保证JS可以正常启动
+            btnData = Array.Empty<object>();
+        }
+
+        await canvasModule.InvokeVoidAsync("initCanvasWithData", "appCanvas", btnData);
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (canvasModule != null)
+        {
+            await canvasModule.InvokeVoidAsync("stopCanvas");
+            await canvasModule.DisposeAsync();
+        }
+    }
+
+    private async Task SendSearchText()
+    {
+        if (canvasModule is null) return;
+        try
+        {
+            await canvasModule.InvokeVoidAsync("drawTextOnCanvas", userInputText);
+        }
+        catch
+        {
+            // 组件销毁过程中调用，静默跳过，不炸控制台
+        }
+    }
+
+}

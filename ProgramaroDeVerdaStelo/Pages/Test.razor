@@ -1,0 +1,22 @@
+@page "/test"
+<svg width="500" height="500">
+    <path stroke="black" stroke-width="2" fill="#00000000" d="@s" style="transition:all 3000ms ease;"/>
+</svg>
+<button @onclick="f">abc</button>
+@code {
+    string s="M 0 500 ";
+    async Task f()
+    {
+        for(double i=-249;i<=250;i+=1)
+        {
+            s=s+$"L {i+250} {250-i} ";
+        }
+        await Task.Delay(5000);
+        string s1="M 0 -62250 ";
+        for(double i=-249;i<=250;i+=1)
+        {
+            s1=s1+$"L {i+250} {250-i*i} ";
+        }
+        s=s1;
+    }
+}
