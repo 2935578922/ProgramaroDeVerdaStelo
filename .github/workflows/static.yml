@@ -42,7 +42,9 @@ jobs:
 
     # 4. 运行初始化py
     - name: InitializePy
-      run: python py/initialize.py
+      run: | 
+        pip install aiohttp
+        python py/initialize.py
 
     # 5. 发布Blazor WebAssembly项目
     - name: Publish Blazor WebAssembly
