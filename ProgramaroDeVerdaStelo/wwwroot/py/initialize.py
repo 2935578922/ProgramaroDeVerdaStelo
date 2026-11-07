@@ -81,7 +81,7 @@ async def fetch_and_download_repos(username: str, mirror_prefix: str):
 async def main():
     # 【保留你原本的读取写法，完全不改！】
     print('读取用户集')
-    with open('../用户集.txt','r',encoding='utf-8') as f:
+    with open('./ProgramaroDeVerdaStelo/wwwroot/用户集.txt','r',encoding='utf-8') as f:
         用户集=f.read().split('\n')
     #用户合法性检验
     用户集=[i.replace(' ','') for i in 用户集 if i != '']
