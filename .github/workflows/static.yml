@@ -48,7 +48,7 @@ jobs:
 
     # 5. 发布Blazor WebAssembly项目
     - name: Publish Blazor WebAssembly
-      run: dotnet publish MathNotes/MathNotes.csproj -c Release -o release --nologo
+      run: dotnet publish ProgramaroDeVerdaStelo/ProgramaroDeVerdaStelo.csproj -c Release -o release --nologo
       # 将 YourBlazorProject.csproj 替换为你的项目文件路径
 
     # 6. 处理发布文件（添加.nojekyll和调整路径）
@@ -63,8 +63,8 @@ jobs:
         # 如果是子路径部署，需要修改base href
         # 例如：如果你的仓库名为 my-blazor-app，访问地址为 username.github.io/my-blazor-app
         # 取消下面注释并替换为你的仓库名
-        sed -i 's/<base href="\/" \/>/<base href="\/IntractiveMathNotes\/" \/>/g' index.html
-        sed -i 's/<base href="\/" \/>/<base href="\/IntractiveMathNotes\/" \/>/g' 404.html
+        sed -i 's/<base href="\/" \/>/<base href="\/ProgramaroDeVerdaStelo\/" \/>/g' index.html
+        sed -i 's/<base href="\/" \/>/<base href="\/ProgramaroDeVerdaStelo\/" \/>/g' 404.html
 
     # 7. 部署到GitHub Pages
     - name: Deploy to GitHub Pages
@@ -74,5 +74,5 @@ jobs:
         publish_dir: ./release/wwwroot
         publish_branch: pages  # 部署到的分支
         force_orphan: true
-        commit_message: "Deploy MathNotes to Pages"
+        commit_message: "Deploy ProgramaroDeVerdaStelo to Pages"
         # 如果需要保留历史提交记录，移除 force_orphan: true
