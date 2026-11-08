@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\pages\\application.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\pages\\application.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\pages\\minicomponent\\homeicon.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\pages\\minicomponent\\homeicon.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,26 +54,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "canvas.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
+              "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
+              "RelativeToolTip": "ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
+              "ViewState": "AgIAALkBAAAAAAAAAAAgwMkBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-08T02:45:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor*",
-              "RelativeToolTip": "ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-06T11:55:31.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Application.razor",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\Pages\\Application.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwFUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-06T10:52:23.569Z",
               "EditorCaption": ""
@@ -84,11 +101,12 @@
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\Pages\\MiniComponent\\HomeIcon.razor",
               "ViewState": "AgIAAFAAAAAAAAAAAAAswFgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-06T10:38:09.616Z"
+              "WhenOpened": "2026-11-06T10:38:09.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "theme.css",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\wwwroot\\css\\theme.css",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\wwwroot\\css\\theme.css",
@@ -100,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\Pages\\Home.razor",

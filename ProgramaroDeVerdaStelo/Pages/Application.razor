@@ -15,7 +15,8 @@
                 class="input"
                 style="width:50vw; font-size:3vh; line-height:5vh; height:5vh;">
     </input>
-    <button class="btn1" style="font-size:3vh; line-height:5vh; width:5vh; height:5vh; padding:0px;">
+    <button @onclick="Search"
+        class="btn1" style="font-size:3vh; line-height:5vh; width:5vh; height:5vh; padding:0px;">
         🔍
     </button>
 </div>
@@ -71,6 +72,18 @@
         catch
         {
             // 组件销毁过程中调用，静默跳过，不炸控制台
+        }
+    }
+
+    private async Task Search()
+    {
+        try
+        {
+            await canvasModule.InvokeVoidAsync("startDraw1");
+        }
+        catch
+        {
+            
         }
     }
 

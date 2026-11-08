@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "ProgramaroDeVerdaStelo",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-tEBJwHrGNCnmeFtQE3Ia+k3rgJoJagjTW1dhhJ3WslM=",
+    "hash": "sha256-AJ476R/JDbioiHnnsHlZWwxXSPEvTD2nQyzq4my3gWQ=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.vzj2a6aakt.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "ProgramaroDeVerdaStelo.wasm",
-        "name": "ProgramaroDeVerdaStelo.68rn15o8yr.wasm",
-        "hash": "sha256-asF2HJxk2O6m5bqtVnJ77zyAz+h2/VIBXauRZtQi65w=",
+        "name": "ProgramaroDeVerdaStelo.3z4mztdmk8.wasm",
+        "hash": "sha256-UVYJ27mTvSvjI2mxvk6AMv5HYtPpvt/Xtt8Kh1KjciQ=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "ProgramaroDeVerdaStelo.pdb",
-        "name": "ProgramaroDeVerdaStelo.85s7smroy3.pdb",
-        "hash": "sha256-xBFIOJgFeg6OuT5R6HMQFgT4N2Lx6WSohs+g7uzToK8=",
+        "name": "ProgramaroDeVerdaStelo.psn9lsveld.pdb",
+        "hash": "sha256-uXXeb8YB/6kAqq3I8hbkUIiO7y3s8QpokC4YdLLV/ZI=",
         "cache": "force-cache"
       }
     ],
