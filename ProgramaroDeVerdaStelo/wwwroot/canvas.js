@@ -294,7 +294,6 @@ function startDraw() {
     drawRect(0, 0, W, H * 0.17, "#006c56");
 
     if (mouseX > W * 0.89 && mouseX < W * 0.95 && mouseY > H * 0.08 && mouseY < H * 0.2) {
-        drawText("🔍", W * 0.90, H * 0.17, String(SSize) + "px 方正正黑简体", "#fff");
         SSize += (80 - SSize) * 0.1
         if (mouseDown) {
             界面 = null;
@@ -319,7 +318,7 @@ function startDraw() {
             });
         }
     } else {
-        drawText("🔍", W * 0.90, H * 0.17, String(SSize) + "px 方正正黑简体", "#fff");
+
         SSize += (70 - SSize) * 0.1
     }
 
@@ -451,7 +450,6 @@ export function startDraw1() {
     drawRect(0, 0, W, H * 0.17, "#006c56");
 
     if (true) {
-        drawText("🔍", W * 0.90, H * 0.17, String(SSize) + "px 方正正黑简体", "#fff");
         SSize += (80 - SSize) * 0.1
         if (true) {
             界面 = null;
@@ -476,7 +474,6 @@ export function startDraw1() {
             });
         }
     } else {
-        drawText("🔍", W * 0.90, H * 0.17, String(SSize) + "px 方正正黑简体", "#fff");
         SSize += (70 - SSize) * 0.1
     }
 

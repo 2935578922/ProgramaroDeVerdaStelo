@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\pages\\application.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\pages\\application.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|solutionrelative:programarodeverdastelo\\wwwroot\\canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA01EC9-23F8-7DA5-4778-D0E17D43521E}|ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo.csproj|c:\\users\\admin\\onedrive\\\u684C\u9762\\programarodeverdastelo\\programarodeverdastelo\\programarodeverdastelo\\pages\\minicomponent\\homeicon.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "canvas.js",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\wwwroot\\canvas.js",
-              "ViewState": "AgIAALkBAAAAAAAAAAAgwMkBAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAL4BAAAAAAAAAADwv8YBAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-11-08T02:45:00.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
@@ -75,21 +75,19 @@
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\Layout\\MainLayout.razor",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-06T11:55:31.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T11:55:31.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Application.razor",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "RelativeDocumentMoniker": "ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\\u684C\u9762\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\ProgramaroDeVerdaStelo\\Pages\\Application.razor",
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\Pages\\Application.razor",
-              "ViewState": "AgIAADQAAAAAAAAAAAAuwDgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-06T10:52:23.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T10:52:23.569Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "ProgramaroDeVerdaStelo\\Pages\\MiniComponent\\HomeIcon.razor",
               "ViewState": "AgIAAFAAAAAAAAAAAAAswFgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-06T10:38:09.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T10:38:09.616Z"
             },
             {
               "$type": "Document",
