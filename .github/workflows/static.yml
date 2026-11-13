@@ -1,4 +1,4 @@
-name: Deploy MathNotes to GitHub Pages
+name: Deploy wwwroot to GitHub Pages
 
 on:
   # 当推送到main分支时触发
@@ -51,7 +51,17 @@ jobs:
       run: dotnet publish ProgramaroDeVerdaStelo/ProgramaroDeVerdaStelo.csproj -c Release -o release --nologo
       # 将 YourBlazorProject.csproj 替换为你的项目文件路径
 
-    # 6. 处理发布文件（添加.nojekyll和调整路径）
+    # 6. 部署到Vercel
+    - name: Deploy to Vercel
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./release/wwwroot
+        publish_branch: vercel  # 部署到的分支
+        force_orphan: true
+        commit_message: "Deploy ProgramaroDeVerdaStelo to Vercel"
+
+    # 7. 处理发布文件（添加.nojekyll和调整路径）
     - name: Prepare deployment files
       run: |
         cd release/wwwroot
@@ -66,7 +76,7 @@ jobs:
         sed -i 's/<base href="\/" \/>/<base href="\/ProgramaroDeVerdaStelo\/" \/>/g' index.html
         sed -i 's/<base href="\/" \/>/<base href="\/ProgramaroDeVerdaStelo\/" \/>/g' 404.html
 
-    # 7. 部署到GitHub Pages
+    # 8. 部署到GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
