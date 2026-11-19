@@ -118,3 +118,17 @@ a:active {
 .contents {
     font-size:2vmin;
 }
+
+.user-card {
+    display: inline-block;
+    background-color: #68B9A2;
+    width: 30vw;
+    height: 20vw;
+    color: white;
+    margin-right: 1vmin;
+}
+.user-card-avatar {
+    clip-path:circle(50%);
+    width: 10vw; 
+    height: 10vw;
+}

@@ -8,7 +8,20 @@
         <div style="margin-left:1vmin; width:max-content;">
             <div class="title" style="padding-bottom:0.5vmin; font-size:8vmin; width:max-content;">
                 作者们
-</div>   
+            </div>
+            <div>
+                @foreach(string i in TempUsers)
+                {
+                    <div class="user-card">
+                        <img src="./icon.svg" class="user-card-avatar" />
+                    </div>
+                }
+            </div>   
         </div>    
     </div>
 </div>
+
+@code {
+    List<string> TempUsers=new List<string>(){"a","b","c"};
+    
+}
