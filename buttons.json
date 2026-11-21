@@ -1,0 +1,226 @@
+[
+  {
+    "title": "-",
+    "text": "并非真的一进制",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "-",
+      "描述": "并非真的一进制",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/-/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/-/archive/refs/heads/main.zip",
+      "详细介绍数据": "# -\n并非真的一进制\n"
+    },
+    "md": "# -\n并非真的一进制\n"
+  },
+  {
+    "title": "HuiZhouHighSchoolApplicationClubNumberPosition",
+    "text": "BigClub",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "HuiZhouHighSchoolApplicationClubNumberPosition",
+      "描述": "BigClub",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/HuiZhouHighSchoolApplicationClubNumberPosition/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/HuiZhouHighSchoolApplicationClubNumberPosition/archive/refs/heads/main.zip",
+      "详细介绍数据": "# HuiZhouHighSchoolApplicationClubNumberPosition\nBigClub\n"
+    },
+    "md": "# HuiZhouHighSchoolApplicationClubNumberPosition\nBigClub\n"
+  },
+  {
+    "title": "Java-MinecraftModCompanionai-template-1.21.11",
+    "text": "这是自己做的一个我的世界1.21.11 fabric mod",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Java-MinecraftModCompanionai-template-1.21.11",
+      "描述": "这是自己做的一个我的世界1.21.11 fabric mod",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Java-MinecraftModCompanionai-template-1.21.11/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Java-MinecraftModCompanionai-template-1.21.11/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Java-MinecraftModCompanionai-template-1.21.11\n这是自己做的一个我的世界1.21.11 fabric mod\n\n有很多功能\n比如把长矛当狙击枪用，超级大力鱼竿\n无限距离无视图腾AOE伤害无视数量的重锤\n超级远珍珠，秒杀箭，一秒20发的弩\n自动登入，自动挖矿，砍树，建造隧道\n反正特别特别多功能，因为当时是给自己用的，所以没什么说明和优化\n代码可以参考一下，是一个很强很强的外挂\n研究了很久\n"
+    },
+    "md": "# Java-MinecraftModCompanionai-template-1.21.11\n这是自己做的一个我的世界1.21.11 fabric mod\n\n有很多功能\n比如把长矛当狙击枪用，超级大力鱼竿\n无限距离无视图腾AOE伤害无视数量的重锤\n超级远珍珠，秒杀箭，一秒20发的弩\n自动登入，自动挖矿，砍树，建造隧道\n反正特别特别多功能，因为当时是给自己用的，所以没什么说明和优化\n代码可以参考一下，是一个很强很强的外挂\n研究了很久\n"
+  },
+  {
+    "title": "Python-FakeVideoCall",
+    "text": "它可以配合OBS等实现虚拟画面和虚拟麦克风",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-FakeVideoCall",
+      "描述": "它可以配合OBS等实现虚拟画面和虚拟麦克风",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-FakeVideoCall/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-FakeVideoCall/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-FakeVideoCall\n它可以配合OBS等实现虚拟画面和虚拟麦克风\n"
+    },
+    "md": "# Python-FakeVideoCall\n它可以配合OBS等实现虚拟画面和虚拟麦克风\n"
+  },
+  {
+    "title": "Python-HandControl",
+    "text": "基于手势识别的控制电脑项目",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-HandControl",
+      "描述": "基于手势识别的控制电脑项目",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-HandControl/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-HandControl/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-HandControl\n基于手势识别的控制电脑项目\n其实还有一个语音识别的models文件夹，但是太大就不上传了\npymine_env也是\n"
+    },
+    "md": "# Python-HandControl\n基于手势识别的控制电脑项目\n其实还有一个语音识别的models文件夹，但是太大就不上传了\npymine_env也是\n"
+  },
+  {
+    "title": "Python-HideAny",
+    "text": "你可以用此程序隐藏一切窗口，并恢复，是很好用的工具",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-HideAny",
+      "描述": "你可以用此程序隐藏一切窗口，并恢复，是很好用的工具",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-HideAny/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-HideAny/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-HideAny\n你可以用此程序隐藏一切窗口，并恢复，是很好用的工具\n"
+    },
+    "md": "# Python-HideAny\n你可以用此程序隐藏一切窗口，并恢复，是很好用的工具\n"
+  },
+  {
+    "title": "Python-MinecraftCheatChest",
+    "text": "我的世界自动抢箱子",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-MinecraftCheatChest",
+      "描述": "我的世界自动抢箱子",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-MinecraftCheatChest/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-MinecraftCheatChest/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-MinecraftCheatChest\n我的世界自动抢箱子\n按下选择窗口后切换到游戏窗口按下空格键确定\n按下选点可以选择箱子大小，点击“双点”按钮，切换到游戏中的箱子界面，分别左键选择左上角和右下角的点，按下回车键确认\n完成上述操作后即可使用\n当打开箱子时可以瞬间拿出所有物品\n*因为这个是公开版本，所有功能没有全部展示出来，简而言之，这是低配版\n"
+    },
+    "md": "# Python-MinecraftCheatChest\n我的世界自动抢箱子\n按下选择窗口后切换到游戏窗口按下空格键确定\n按下选点可以选择箱子大小，点击“双点”按钮，切换到游戏中的箱子界面，分别左键选择左上角和右下角的点，按下回车键确认\n完成上述操作后即可使用\n当打开箱子时可以瞬间拿出所有物品\n*因为这个是公开版本，所有功能没有全部展示出来，简而言之，这是低配版\n"
+  },
+  {
+    "title": "Python-SchoolTool",
+    "text": "",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-SchoolTool",
+      "描述": "",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-SchoolTool/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-SchoolTool/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-SchoolTool\n这是我曾经带去学校用的工具，所以通用性比较强，其中背词很好用，我用它背了1800词\n"
+    },
+    "md": "# Python-SchoolTool\n这是我曾经带去学校用的工具，所以通用性比较强，其中背词很好用，我用它背了1800词\n"
+  },
+  {
+    "title": "Python-UsefulTool",
+    "text": "非常有用的一些自己的代码",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "Python-UsefulTool",
+      "描述": "非常有用的一些自己的代码",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/Python-UsefulTool/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/Python-UsefulTool/archive/refs/heads/main.zip",
+      "详细介绍数据": "# Python-UsefulTool\n非常有用的一些自己的代码\n\n# tk输出\n用它可以使tk的Text的更加方便操作，适合用来做输出的Text框使用\n# 窗口选择\n基于tk的，比pyqt5稳定好用\n使用内置函数可以方便的选择一个窗口，得到它的句柄和信息，方便用来作外挂\n# 爬虫基础\n就是获取一个网页的信息罢了\n# pyqt5窗口选择\n使用内置函数可以方便的选择一个窗口，得到它的句柄和信息，方便用来作外挂\n# TP\n一个截图函数，可以在窗口被遮挡的情况下截图，非常时候用来做识别和外挂\n# ins\n后台控制按键，可以用来做后台控制类，挂机游戏，特别有用\n# 转到视角\n用于MInecraft的视角转到，因为普通的鼠标移动库并不能转动Minecraft这类第一人称游戏的视角\n# 分数\n精确计算\n# 屏幕显示\n可以在屏幕最上层显示内容\n"
+    },
+    "md": "# Python-UsefulTool\n非常有用的一些自己的代码\n\n# tk输出\n用它可以使tk的Text的更加方便操作，适合用来做输出的Text框使用\n# 窗口选择\n基于tk的，比pyqt5稳定好用\n使用内置函数可以方便的选择一个窗口，得到它的句柄和信息，方便用来作外挂\n# 爬虫基础\n就是获取一个网页的信息罢了\n# pyqt5窗口选择\n使用内置函数可以方便的选择一个窗口，得到它的句柄和信息，方便用来作外挂\n# TP\n一个截图函数，可以在窗口被遮挡的情况下截图，非常时候用来做识别和外挂\n# ins\n后台控制按键，可以用来做后台控制类，挂机游戏，特别有用\n# 转到视角\n用于MInecraft的视角转到，因为普通的鼠标移动库并不能转动Minecraft这类第一人称游戏的视角\n# 分数\n精确计算\n# 屏幕显示\n可以在屏幕最上层显示内容\n"
+  },
+  {
+    "title": "scratch-",
+    "text": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/6210da4d3bb43e7e38fec92c",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "scratch-",
+      "描述": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/6210da4d3bb43e7e38fec92c",
+      "介绍文件名": null,
+      "镜像下载位置": null,
+      "仓库下载链接": "https://www.github.com/hghgjkQ/scratch-/archive/refs/heads/main.zip",
+      "详细介绍数据": null
+    },
+    "md": null
+  },
+  {
+    "title": "scratch---",
+    "text": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/624ae85482b6b23250e3e329游玩",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "scratch---",
+      "描述": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/624ae85482b6b23250e3e329游玩",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/scratch---/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/scratch---/archive/refs/heads/main.zip",
+      "详细介绍数据": "# scratch---\n以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/624ae85482b6b23250e3e329游玩\n"
+    },
+    "md": "# scratch---\n以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/624ae85482b6b23250e3e329游玩\n"
+  },
+  {
+    "title": "scratchGame-ALL",
+    "text": "以前没开智做的游戏，有些有可能使用的是ccw的gandi编辑器，可以直接打开链接看我ccw主页https://www.ccw.site/student/6173d47bad3f6223b24e508c，以下文件都是我的游戏，有的质量高有的低，游戏说明暂时没有，自己研究着玩吧",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "scratchGame-ALL",
+      "描述": "以前没开智做的游戏，有些有可能使用的是ccw的gandi编辑器，可以直接打开链接看我ccw主页https://www.ccw.site/student/6173d47bad3f6223b24e508c，以下文件都是我的游戏，有的质量高有的低，游戏说明暂时没有，自己研究着玩吧",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/scratchGame-ALL/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/scratchGame-ALL/archive/refs/heads/main.zip",
+      "详细介绍数据": "# scratchGame-ALL\n以前没开智做的游戏，有些有可能使用的是ccw的gandi编辑器，可以直接打开链接看我ccw主页https://www.ccw.site/student/6173d47bad3f6223b24e508c，以下文件都是我的游戏，有的质量高有的低，游戏说明暂时没有，自己研究着玩吧\n部分游戏介绍，这也是从4年级刚接触编程开始做到现在高中的游戏们了，每个加进来的都是很有情怀的，背后也有故事，但还有更多游戏损坏或遗失在时间里了，其实除了这些，还有更多，应该是有400+的，不过有的是大游戏有的是小游戏，还有几个都是废的，但是质量确是较好的那些\n\n①图像化：指大部分识别和互动都是靠scratch的“碰到”颜色，角色实现的，即从图像做效果，数据是辅助，图像即是核心\n②数据化：指开始脱离图像化，开始用底层数据来做角色的碰撞了，做出的效果肯定是更好的，即从核心是数据，图像只是演示\n\n# 以下介绍不分先后，没有时间关系\n1.Scratch跑酷\n我记得是有两个重名的，其实我的所有跑酷游戏都是用的一个引擎，以前看不懂原理，现在也没研究了，核心代码确实不是我手搓的，因为跑酷游戏比较难写这些其实，毕竟是刚学编程当时，现在来说肯定是小菜一碟了\n这个游戏是当初做来有一定情怀的，难度不是很大，当时在ccw社区比较火的就是这样的“代码块”风格了\n\n2.hghgjk加密\n这是4年前的加密东西了，用的其实核心好像是ccw一位大佬现成的加密方法，但自己也改了一下，也算创新了\n\n3.python软件下载\n这个是当时为了把文件搞到学校电脑上做的，简单来说就是把ccw平台当云盘了（\n确实挺快的，也挺好用，但是后面ccw政策改了，要登入才可以了\n\n4.python辅助系列\n这个是当初刚学python时觉得python难写做的辅助工具，也就是图形化了，其实没多好用，后面也荒废了\n就是想着用“语言包”（代码块）+主体的方式实现图形化，但是毕竟不好用，scracth也有限制（大量拓展文字有点卡\n\n5.下雨（下雨引擎）\n这个是当时做的下雨效果，就是看到动画片然后突发奇想做的，效果也挺好的，之前真的被ccw的《小猪佩奇的午夜后宫》吓到了\nccw其实也还算出名了，上面提到的游戏好像就是一个出圈的作品\n\n6.丧尸危机系列\n这个是很成功的一个游戏了，因为我自己也玩，我父亲之前还玩这个玩了好一会，也挺有趣的，其实一般来说我自己的游戏都是不会玩的\n塔防游戏还是很有趣的，技术难道其实也不大，这个时候我还是以“图像化”①为主\n\n7.二战！\n这个是我朋友很喜欢玩的一个游戏，因为以前家里人不让玩游戏，但是编程就不拦着（其实也会管，甚至说“可以做游戏，但是做出来的不能玩”）\n名字是随便取的\n\n8.冒险的阿曼达\n这个是为了以前的一个玩的很好的小学同学做的，效果虽然不怎么样，现在当然是能大幅度还原了，但还是我的一份回忆\n\n9.击剑大师\n之前看了AI的初步介绍，就尝试做了这样一个游戏，其实这完全算不上AI，但也很好了\n\n10.千秋同行&枪盾互战\n其实是学校里很流行的一个小游戏，当时想做成网页版和同学玩的，但是因为当时能力不行，还是废了，但在测试时也是玩的很高兴的\n后面呢我python精进了，手搓了一个这个游戏很强的AI，是遗传算法实现的\n\n11.星图编辑器\n这个唯一的印象就是之前配电脑的时候用这个画图很方便，因为我不喜欢去网上找工具用\n\n12.模拟病毒\n当时是新冠时期，就做了这样一个东西，其实是没有任何科学根据的，就是凭着感觉乱搞\n\n13.沙可冰系列\n这个的我很在意的一个东西了，现在自然是没怎么关了，因为用scratch做“电脑系统”的很常见了，这就是随波逐流做的一个东西\n我学编程其实是自己先当游戏玩了1年，后面被爸妈发现，我妈又看到核桃编程的广告，于是我接受了系统的学习，不得不说核桃编程是真的贵，但服务态度也是真的好\n因为提取玩了一年，我去就是炸鱼的存在，其实要说这事，在小学，我的编程能力无人能敌，已经算炸鱼的存在了，因为很多人学编程就是不自己研究的，甚至一个项目都没有，而我在小学的时候已经做了一百多个小游戏了\n到了初中，那更是炸鱼，编程老师甚至都说，她的编写游戏的能力不如我，这不是夸张，在初中我学了python,java，python是老师刚开始带着的，后面我觉得费钱还进度太慢了，我就自己学，于是学会了很多很多，做出来了更加惊世骇俗的项目\n在学校里真的就是断层式的碾压，甚至平常可以帮班级做一些项目，初二到初三有那个“创新之星”奖状，因为有两个，第一个永远是我，第二个因为必须要发，老师就明说：“因为没有人符合这个了，就是看情况给的”，这个奖状其实是最不值一提的东西了\n到了高中，我发现我也不是很差的，在社团中，我的能力也算特别强的了，班里很多学编程的，但都是理论，真说做项目了，一个都没有，我都有700左右的项目了，甚至之前有人和我提合作，还没开始他们就不做了，其实也没多强，那种项目我一个人就可以做完了\n\n14.“玩法自己研究”是一个很久之前做的化学游戏了，当时什么都不懂，就乱作了，可以参考一下\n\n15.病毒\n这个是病毒的集大成者，是真的一旦导入项目就会卡死的程序，利用了很多scratch特性\n\n16.跑酷系列\n这些核心代码都差不多\n\n17.孤身一人\n这个游戏做了很久，内容很丰富，我的朋友也很喜欢玩这个游戏\n\n18.进制转换\n这个是学了相关知识做的一个程序\n\n\n"
+    },
+    "md": "# scratchGame-ALL\n以前没开智做的游戏，有些有可能使用的是ccw的gandi编辑器，可以直接打开链接看我ccw主页https://www.ccw.site/student/6173d47bad3f6223b24e508c，以下文件都是我的游戏，有的质量高有的低，游戏说明暂时没有，自己研究着玩吧\n部分游戏介绍，这也是从4年级刚接触编程开始做到现在高中的游戏们了，每个加进来的都是很有情怀的，背后也有故事，但还有更多游戏损坏或遗失在时间里了，其实除了这些，还有更多，应该是有400+的，不过有的是大游戏有的是小游戏，还有几个都是废的，但是质量确是较好的那些\n\n①图像化：指大部分识别和互动都是靠scratch的“碰到”颜色，角色实现的，即从图像做效果，数据是辅助，图像即是核心\n②数据化：指开始脱离图像化，开始用底层数据来做角色的碰撞了，做出的效果肯定是更好的，即从核心是数据，图像只是演示\n\n# 以下介绍不分先后，没有时间关系\n1.Scratch跑酷\n我记得是有两个重名的，其实我的所有跑酷游戏都是用的一个引擎，以前看不懂原理，现在也没研究了，核心代码确实不是我手搓的，因为跑酷游戏比较难写这些其实，毕竟是刚学编程当时，现在来说肯定是小菜一碟了\n这个游戏是当初做来有一定情怀的，难度不是很大，当时在ccw社区比较火的就是这样的“代码块”风格了\n\n2.hghgjk加密\n这是4年前的加密东西了，用的其实核心好像是ccw一位大佬现成的加密方法，但自己也改了一下，也算创新了\n\n3.python软件下载\n这个是当时为了把文件搞到学校电脑上做的，简单来说就是把ccw平台当云盘了（\n确实挺快的，也挺好用，但是后面ccw政策改了，要登入才可以了\n\n4.python辅助系列\n这个是当初刚学python时觉得python难写做的辅助工具，也就是图形化了，其实没多好用，后面也荒废了\n就是想着用“语言包”（代码块）+主体的方式实现图形化，但是毕竟不好用，scracth也有限制（大量拓展文字有点卡\n\n5.下雨（下雨引擎）\n这个是当时做的下雨效果，就是看到动画片然后突发奇想做的，效果也挺好的，之前真的被ccw的《小猪佩奇的午夜后宫》吓到了\nccw其实也还算出名了，上面提到的游戏好像就是一个出圈的作品\n\n6.丧尸危机系列\n这个是很成功的一个游戏了，因为我自己也玩，我父亲之前还玩这个玩了好一会，也挺有趣的，其实一般来说我自己的游戏都是不会玩的\n塔防游戏还是很有趣的，技术难道其实也不大，这个时候我还是以“图像化”①为主\n\n7.二战！\n这个是我朋友很喜欢玩的一个游戏，因为以前家里人不让玩游戏，但是编程就不拦着（其实也会管，甚至说“可以做游戏，但是做出来的不能玩”）\n名字是随便取的\n\n8.冒险的阿曼达\n这个是为了以前的一个玩的很好的小学同学做的，效果虽然不怎么样，现在当然是能大幅度还原了，但还是我的一份回忆\n\n9.击剑大师\n之前看了AI的初步介绍，就尝试做了这样一个游戏，其实这完全算不上AI，但也很好了\n\n10.千秋同行&枪盾互战\n其实是学校里很流行的一个小游戏，当时想做成网页版和同学玩的，但是因为当时能力不行，还是废了，但在测试时也是玩的很高兴的\n后面呢我python精进了，手搓了一个这个游戏很强的AI，是遗传算法实现的\n\n11.星图编辑器\n这个唯一的印象就是之前配电脑的时候用这个画图很方便，因为我不喜欢去网上找工具用\n\n12.模拟病毒\n当时是新冠时期，就做了这样一个东西，其实是没有任何科学根据的，就是凭着感觉乱搞\n\n13.沙可冰系列\n这个的我很在意的一个东西了，现在自然是没怎么关了，因为用scratch做“电脑系统”的很常见了，这就是随波逐流做的一个东西\n我学编程其实是自己先当游戏玩了1年，后面被爸妈发现，我妈又看到核桃编程的广告，于是我接受了系统的学习，不得不说核桃编程是真的贵，但服务态度也是真的好\n因为提取玩了一年，我去就是炸鱼的存在，其实要说这事，在小学，我的编程能力无人能敌，已经算炸鱼的存在了，因为很多人学编程就是不自己研究的，甚至一个项目都没有，而我在小学的时候已经做了一百多个小游戏了\n到了初中，那更是炸鱼，编程老师甚至都说，她的编写游戏的能力不如我，这不是夸张，在初中我学了python,java，python是老师刚开始带着的，后面我觉得费钱还进度太慢了，我就自己学，于是学会了很多很多，做出来了更加惊世骇俗的项目\n在学校里真的就是断层式的碾压，甚至平常可以帮班级做一些项目，初二到初三有那个“创新之星”奖状，因为有两个，第一个永远是我，第二个因为必须要发，老师就明说：“因为没有人符合这个了，就是看情况给的”，这个奖状其实是最不值一提的东西了\n到了高中，我发现我也不是很差的，在社团中，我的能力也算特别强的了，班里很多学编程的，但都是理论，真说做项目了，一个都没有，我都有700左右的项目了，甚至之前有人和我提合作，还没开始他们就不做了，其实也没多强，那种项目我一个人就可以做完了\n\n14.“玩法自己研究”是一个很久之前做的化学游戏了，当时什么都不懂，就乱作了，可以参考一下\n\n15.病毒\n这个是病毒的集大成者，是真的一旦导入项目就会卡死的程序，利用了很多scratch特性\n\n16.跑酷系列\n这些核心代码都差不多\n\n17.孤身一人\n这个游戏做了很久，内容很丰富，我的朋友也很喜欢玩这个游戏\n\n18.进制转换\n这个是学了相关知识做的一个程序\n\n\n"
+  },
+  {
+    "title": "scratchGame-Minecraft",
+    "text": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/61c5cca244d0614d5db3f545",
+    "author": "hghgjkQ",
+    "data": {
+      "项目名": "scratchGame-Minecraft",
+      "描述": "以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/61c5cca244d0614d5db3f545",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/hghgjkQ/scratchGame-Minecraft/main/README.md",
+      "仓库下载链接": "https://www.github.com/hghgjkQ/scratchGame-Minecraft/archive/refs/heads/main.zip",
+      "详细介绍数据": "# scratchGame-Minecraft\n以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/61c5cca244d0614d5db3f545\n"
+    },
+    "md": "# scratchGame-Minecraft\n以前没开智做的游戏，使用的是ccw的gandi编辑器，可以直接打开链接https://www.ccw.site/detail/61c5cca244d0614d5db3f545\n"
+  },
+  {
+    "title": "IntractiveMathNotes",
+    "text": "",
+    "author": "2935578922",
+    "data": {
+      "项目名": "IntractiveMathNotes",
+      "描述": "",
+      "介绍文件名": null,
+      "镜像下载位置": null,
+      "仓库下载链接": "https://www.github.com/2935578922/IntractiveMathNotes/archive/refs/heads/main.zip",
+      "详细介绍数据": null
+    },
+    "md": null
+  },
+  {
+    "title": "ProgramaroDeVerdaStelo",
+    "text": "",
+    "author": "2935578922",
+    "data": {
+      "项目名": "ProgramaroDeVerdaStelo",
+      "描述": "",
+      "介绍文件名": null,
+      "镜像下载位置": null,
+      "仓库下载链接": "https://www.github.com/2935578922/ProgramaroDeVerdaStelo/archive/refs/heads/main.zip",
+      "详细介绍数据": null
+    },
+    "md": null
+  },
+  {
+    "title": "Ubuntu-with-frutiger-metro-Wallpaper",
+    "text": "在这里下载我的ubuntu壁纸",
+    "author": "2935578922",
+    "data": {
+      "项目名": "Ubuntu-with-frutiger-metro-Wallpaper",
+      "描述": "在这里下载我的ubuntu壁纸",
+      "介绍文件名": "README.md",
+      "镜像下载位置": "https://www.github.com/https://raw.githubusercontent.com/2935578922/Ubuntu-with-frutiger-metro-Wallpaper/main/README.md",
+      "仓库下载链接": "https://www.github.com/2935578922/Ubuntu-with-frutiger-metro-Wallpaper/archive/refs/heads/main.zip",
+      "详细介绍数据": "This SVG made by Inkscape, so the source code have some Inkscape markers. And I didn't remove them.\n"
+    },
+    "md": "This SVG made by Inkscape, so the source code have some Inkscape markers. And I didn't remove them.\n"
+  }
+]
